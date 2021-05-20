@@ -1,91 +1,68 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Illia Avdiienko's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Illia Avdiienko
+Python Developer, educator.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+
+### Contacts:
+* e-mail: [avil48job@gmail.com](mailto:avil48job@gmail.com)
+* Telegram: [@dictposp](https://t.me/dictprosp)
 
 
 ## Currently
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Self-employed, developing various CMS and e-commerce solutions.
 
 
-### Research interests
+### Techonological stack
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+__Python__, __Flask__ ecosystem, __PostgreSQL__, aiogram.
+
+
+### Also familar with:
+
+* Linux, bash _(server deploying and administrating)_
+* SQLite
+* Redis
+* HTML/CSS
+* JavaScript _(vanilla and a bit of Vue.JS)_
+* GIT
+* AWS Ligthsail _(still deploying my current project on it)_   
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`September 2017 - now`
+__[FICT, NTUU KPI](https://fiot.kpi.ua/).__
+Computer Engineering.
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2020-now`
+__Python Developer__, Self-employeed
 
-- Warden
-- Minted coins
+- Developed chat-bots for telegram
+- CMS and CRM developing
+- All projects written in Python with Flask. Just in love with its simplicty :-)
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2019-2020`
+__Professors’ assistant__, NTUU KPI
 
+- Classes administrating
+- Assistance in assessment
+- Help-desk technician
 
+`2020`
+__Educator__, [Академія Професій Майбутнього](https://academyua.com/ua/pro-nas)
+
+- Taught Python for 10-14-year-olds.
+- Also taught robotics with LEGO for kids.
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2021 -->
 
 
