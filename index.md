@@ -7,7 +7,8 @@ Python Developer, educator.
 
 
 ### Contacts:
-* e-mail: [avil48job@gmail.com](mailto:avil48job@gmail.com)
+* Phone: [+380662791460](tel:+380662791460)
+* E-mail: [avil48job@gmail.com](mailto:avil48job@gmail.com)
 * Telegram: [@dictposp](https://t.me/dictprosp)
 
 ## Currently:
