@@ -11,12 +11,12 @@ Python Developer, educator.
 * Telegram: [@dictposp](https://t.me/dictprosp)
 
 
-## Currently
+## Currently:
 
-Self-employed, developing various CMS and e-commerce solutions.
+Self-employed, developing various CMS and e-commerce solutions, and open to new job offers.
 
 
-### Techonological stack
+## Techonological stack:
 
 __Python__, __Flask__ ecosystem, __PostgreSQL__, aiogram.
 
@@ -32,14 +32,14 @@ __Python__, __Flask__ ecosystem, __PostgreSQL__, aiogram.
 * AWS Ligthsail _(still deploying my current project on it)_   
 
 
-## Education
+## Education:
 
 `September 2017 - now`
 __[FICT, NTUU KPI](https://fiot.kpi.ua/).__
 Computer Engineering.
 
 
-## Occupation
+## Occupation:
 
 `2020-now`
 __Python Developer__, Self-employeed
