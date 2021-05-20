@@ -49,7 +49,7 @@ __Python Developer__, Self-employeed
 `2019-2020`
 __Professors’ assistant__, NTUU KPI
 
-- Classes administrating
+- Managing classes and related documentation
 - Assistance in assessment
 - Help-desk technician
 
