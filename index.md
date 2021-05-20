@@ -3,7 +3,7 @@ layout: cv
 title: Illia Avdiienko's CV
 ---
 # Illia Avdiienko
-Python Developer, educator.
+Python Developer, Educator.
 
 
 ### Contacts:
@@ -59,6 +59,12 @@ __Educator__, [Академія Професій Майбутнього](https:/
 
 - Taught Python for 10-14-year-olds.
 - Also taught robotics with LEGO for kids.
+
+### Languages:
+
+1. Українська _(native)_
+2. Русский _(native)_
+3. English _(excellent at reading documentation; lacking speaking practice)_
 
 <!-- ### Footer
 
