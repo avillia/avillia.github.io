@@ -33,7 +33,7 @@ __Python__, __Flask__ ecosystem, __PostgreSQL__, aiogram.
 ## Education:
 
 `September 2017 - now`
-__[FICT, NTUU KPI](https://fiot.kpi.ua/).__
+__[FICT, NTUU KPI](https://fiot.kpi.ua/)__
 Computer Engineering.
 
 
@@ -44,7 +44,7 @@ __Python Developer__, Self-employeed
 
 - Developed chat-bots for telegram
 - CMS and CRM developing
-- All projects written in Python with Flask. Just in love with its simplicty :-)
+- All projects done with Flask. Just love its simplicity.
 
 `2019-2020`
 __Professors’ assistant__, NTUU KPI
