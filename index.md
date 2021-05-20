@@ -10,11 +10,9 @@ Python Developer, educator.
 * e-mail: [avil48job@gmail.com](mailto:avil48job@gmail.com)
 * Telegram: [@dictposp](https://t.me/dictprosp)
 
-
 ## Currently:
 
 Self-employed, developing various CMS and e-commerce solutions, and open to new job offers.
-
 
 ## Techonological stack:
 
