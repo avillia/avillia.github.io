@@ -43,8 +43,8 @@ Computer Engineering.
 `2020-now`
 __Python Developer__, Self-employeed
 
-- Developed chat-bots for telegram
-- CMS and CRM developing
+- Developing chat-bots for telegram
+- CMS and CRM development
 - All projects done with Flask. Just love its simplicity.
 
 `2019-2020`
