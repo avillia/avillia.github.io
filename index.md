@@ -13,23 +13,22 @@ Python Developer, Educator.
 
 ## Currently:
 
-Self-employed, developing various CMS and e-commerce solutions, and open to new job offers.
+Self-employed, developing various CMSs and e-commerce solutions, and open to new job offers.
 
 ## Techonological stack:
 
-__Python__, __Flask__ ecosystem, __PostgreSQL__, aiogram.
-
-
-### Also familar with:
-
-* Linux, bash _(server deploying and administrating)_
-* SQLite
+*__Python__
+    *__Flask__ ecosystem
+    * aiogram, pyTelegramBotAPI
+    * Selenium, beautifulsoup, Scrapy
+    * SQLAlchemy _(but prefer to use no-ORM approach dealing with DBs)_
+* __PostgreSQL__, SQLite, MySQL
+* Linux, bash _(deploying and administrating)_
+    * AWS Ligthsail _(still deploying my current project on it)_
 * Redis
 * HTML/CSS
 * JavaScript _(vanilla and a bit of Vue.JS)_
 * GIT
-* AWS Ligthsail _(still deploying my current project on it)_   
-
 
 ## Education:
 
@@ -37,14 +36,14 @@ __Python__, __Flask__ ecosystem, __PostgreSQL__, aiogram.
 __[FICT, NTUU KPI](https://fiot.kpi.ua/)__
 Computer Engineering.
 
-
 ## Occupation:
 
 `2020-now`
-__Python Developer__, Self-employeed
+__Python Developer__, Self-employed
 
 - Developing chat-bots for telegram
 - CMS and CRM development
+- Websrapping
 - All projects done with Flask. Just love its simplicity.
 
 `2019-2020`
@@ -60,15 +59,14 @@ __Educator__, [Академія Професій Майбутнього](https:/
 - Taught Python for 10-14-year-olds.
 - Also taught robotics with LEGO for kids.
 
-
 ### Languages:
 
 - Українська _(native)_
 - Русский _(native)_
 - English _(excellent at reading documentation; lacking speaking practice)_
 
-<!-- ### Footer
+### Footer
 
-Last updated: May 2021 -->
+Last updated: May 2021
 
 
