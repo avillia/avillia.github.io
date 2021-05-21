@@ -17,8 +17,8 @@ Self-employed, developing various CMSs and e-commerce solutions, and open to new
 
 ## Techonological stack:
 
-*__Python__
-    *__Flask__ ecosystem
+* __Python__
+    * __Flask__ ecosystem
     * aiogram, pyTelegramBotAPI
     * Selenium, beautifulsoup, Scrapy
     * SQLAlchemy _(but prefer to use no-ORM approach dealing with DBs)_
@@ -54,7 +54,7 @@ __Professors’ assistant__, NTUU KPI
 - Help-desk technician
 
 `2020`
-__Educator__, [Академія Професій Майбутнього](https://academyua.com/ua/pro-nas)
+__Educator__, [AcademyUA](https://academyua.com/ua/pro-nas)
 
 - Taught Python for 10-14-year-olds.
 - Also taught robotics with LEGO for kids.
