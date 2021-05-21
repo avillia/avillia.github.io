@@ -22,9 +22,9 @@ Self-employed, developing various CMSs and e-commerce solutions, and open to new
     * aiogram, pyTelegramBotAPI
     * Selenium, beautifulsoup, Scrapy
     * SQLAlchemy _(but prefer to use no-ORM approach dealing with DBs)_
-* __PostgreSQL__, SQLite, MySQL
 * Linux, bash _(deploying and administrating)_
     * AWS Ligthsail _(still deploying my current project on it)_
+* __PostgreSQL__, SQLite, MySQL
 * Redis
 * HTML/CSS
 * JavaScript _(vanilla and a bit of Vue.JS)_
